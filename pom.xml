@@ -47,6 +47,10 @@
             <artifactId>lombok</artifactId>
             <scope>provided</scope>
         </dependency>
+             <dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+		</dependency>
 
         <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
         <dependency>
