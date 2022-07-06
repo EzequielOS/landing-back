@@ -1,0 +1,4 @@
+#Configuracoes de Security
+
+jwt.private.key: classpath:app.key
+jwt.public.key: classpath:app.pub
